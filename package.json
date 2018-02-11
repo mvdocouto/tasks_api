@@ -1,0 +1,19 @@
+{
+  "name": "tasks_api",
+  "version": "1.0.0",
+  "description": "API de gerenciamento de tarefas.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mvdocouto/tasks_api.git"
+  },
+  "author": "Marcus Couto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvdocouto/tasks_api/issues"
+  },
+  "homepage": "https://github.com/mvdocouto/tasks_api#readme"
+}
